@@ -1,6 +1,6 @@
-<h3 align="center">A Back-end developer from Korea</h3>
+<h3 align="center">A back-end developer from Korea</h3>
 
-<h3 align="left">Connect with me:ajs0813@naver.com</h3>
+<h3 align="left">Connect with me: ajs0813@naver.com</h3>
 <p align="left">
 </p>
 
