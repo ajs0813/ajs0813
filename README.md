@@ -23,4 +23,5 @@
 ## 추가 항목
 ![JSP](https://img.shields.io/badge/-JSP-F7DF1E?style=flat&logo=java&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
