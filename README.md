@@ -4,6 +4,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ## 프레임워크 / ORM 라이브러리
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Mybatis](https://img.shields.io/badge/-MyBatis-6DB33F?style=flat&logo=mybatis&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-5F5F5F?style=flat&logo=java&logoColor=white)
