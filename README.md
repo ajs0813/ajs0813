@@ -32,4 +32,4 @@
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={ajs0813})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajs0813)
