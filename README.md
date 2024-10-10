@@ -31,6 +31,6 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-
+<br><br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajs0813)
