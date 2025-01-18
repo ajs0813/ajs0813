@@ -1,4 +1,4 @@
-# 안녕하세요!! 잘 부탁드립니다!👋
+# 안녕하세요! 잘 부탁드립니다!👋
 
 ## 언어
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
