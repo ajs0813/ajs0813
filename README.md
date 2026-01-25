@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Subversion-818181?style=flat&logo=subversion&logoColor=white" />
 </p>
 
-### 🤝 Productivity
+### 🤝 Productivity Tool
 <p>
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" />
