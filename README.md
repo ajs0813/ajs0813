@@ -34,10 +34,12 @@
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=subversion&logoColor=white" />
 </p>
 
-### 🧰 Tools
+### 🤝 Collaboration Tools
 <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
 </p>
 
 ---
